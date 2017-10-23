@@ -63,8 +63,9 @@ let state = {
 //that does two things:
 // 1. It should set the <input>'s value to be the `state.inputtedText` (so the
 //    web page matches the state on render).
-// 2. It should "disable" the <button> if the `state.inputtedText` is empty. You
-//    can disable a button but setting it's `disabled` property to true.
+// 2. It should "disable" the <button> if the `state.inputtedText` is empty (but
+//    enable it there is inputted text. You can disable a button but setting it's
+//    `disabled` property to true.
 //Add calls to your `renderInput()` function to BOTH the end of `renderTaskList()`
 //and to the end of your `'input'` event callback (so the input renders on each
 //user interaction).

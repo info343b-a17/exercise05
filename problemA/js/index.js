@@ -49,10 +49,10 @@ const COLORS_9 = {
 
 //Define a function `renderPalette()` that takes in an array of color strings
 //and a "parent" element. The function should add a row of colored boxes to the 
-//parent element, one for each color.
+//parent element, one for each color (using the `createColorBox()` function).
 //The boxes should be each take up an equal portion of their containing element
 //(e.g., a palette with 3 colors will have each box take up 1/3); use the 
-//`getBoundingClientRect()` method to determine the container's size.
+//`getBoundingClientRect()` method to get an object with the container's size.
 //
 //You can test the function by calling it and passing it one of the `COLORS_9`
 //palettes, adding the palette to the <main> element.

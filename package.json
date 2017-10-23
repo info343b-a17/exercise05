@@ -4,7 +4,7 @@
   "private": true,
   "description": "",
   "scripts": {
-    "test": "jest -t problem[^E]"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
