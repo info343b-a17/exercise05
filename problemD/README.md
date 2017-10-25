@@ -1,6 +1,8 @@
 # Problem D
 
-In this exercise, you will practice creating an interactive web page using the [**jQuery**](http://jquery.com/) library. In particular, you will practice utilizing its methods (and reading the documentation to learn more!)
+In this exercise, you will practice creating an interactive web page using the [**jQuery**](http://jquery.com/) library. In particular, you will practice utilizing its methods (and reading the documentation to learn more!) in order to create an interactive "poll builder" like you might find on a survey hosting site:
+
+![Example completed exercise](img/example.png)
 
 To complete the exercise, edit the included **`js/index.js`** file to add in the code described in the comments. Note that you ___WILL___ need to edit the HTML file to include the jQuery script!.
 

@@ -1,6 +1,8 @@
 # Problem A
 
-In this exercise, you will practice using JavaScript to manipulate the DOM.
+In this exercise, you will practice using JavaScript to manipulate the DOM. In particular, you will dynamically generate a visualization of some color schemes:
+
+![Example completed exercise](img/example.png)
 
 To complete the exercise, edit the included **`js/index.js`** file to add in the code described in the comments. Note that you should ___not___ edit the HTML file!
 
